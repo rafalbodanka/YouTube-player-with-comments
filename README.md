@@ -36,7 +36,7 @@ Watch your favourite videos in browser without scrolling to the comments section
 ![Mobile player view](./assets/player-mobile.png)
 ![Desktop player view](./assets/player-desktop.png)
 
-![Sample popup view](./assets/sample.mp4)
+https://github.com/rafalbodanka/YouTube-player-with-comments/assets/99665986/d4599201-73db-450b-b901-d9fe4a9f14c6
 
 ## Configuration
 
